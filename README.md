@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed on your system:
 ### Clone the Repository 
 
 ```bash
-git clone 
+git clone https://github.com/VinnyVanGogh/VinnyVanGoghClasses.git
 ```
 
 ### Install dependencies
@@ -89,23 +89,23 @@ python -m vvclasses.py -arg3 value3
 
 ```text
 ├── .github
-│   └── CONTRIBUTING.md
+│   ├── CONTRIBUTING.md
+│   ├── scripts
+│   │   └── version_checker.py
+│   └── workflows
+│       ├── check-pr-title.yml
+│       ├── codeql.yml
+│       ├── dependabot.yml
+│       ├── label-issues.yml
+│       ├── python-publish.yml
+│       └── remove-unused-imports.yml
 ├── EXAMPLEREADME.md
-├── printclass_examples.py
+├── MIT_LICENSE
 ├── pyproject.toml
 ├── setup.cfg
-├── to-do-list.md
-├── vvclasses.egg-info
-│   ├── PKG-INFO
-│   ├── SOURCES.txt
-│   ├── dependency_links.txt
-│   ├── entry_points.txt
-│   ├── requires.txt
-│   └── top_level.txt
 └── vvclasses_project
     ├── __main__.py
     ├── printclass.py
-    ├── printclass_examples.py
     ├── src
     ├── tests
     ├── utils
