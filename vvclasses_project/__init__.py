@@ -1,2 +1,1 @@
-from vvclasses_project.printclass import ColorPrinter
-
+from vvclasses import main
