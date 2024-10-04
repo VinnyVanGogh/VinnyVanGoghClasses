@@ -1,6 +1,6 @@
 # Path: ./vvclasses_project/vvclasses.py 
 
-from vvclasses_project import ColorPrinter
+from vvclasses_project.utils import ColorPrinter
 
 def main():
     blue = ColorPrinter.COLORS['blue']
