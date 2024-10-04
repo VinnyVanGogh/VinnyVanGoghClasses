@@ -1,6 +1,6 @@
 [project]
 name = "vvclasses"
-version = "0.0.2"
+version = "0.0.3"
 description = "A one line description of your project."
 readme = "README.md"
 requires-python = ">=3.10"
