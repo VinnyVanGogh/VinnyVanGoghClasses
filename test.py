@@ -1,7 +1,6 @@
 import vvclasses
 from vvclasses import ColorPrinter
 
-import os
 
 print_dir = (dir(vvclasses))
 utils = vvclasses.utils.__file__
