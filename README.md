@@ -1,4 +1,4 @@
-# vvclasses
+# VinnyVanGoghClasses (vvclasses)
 
 ## Table of Contents 
 - [Overview](#overview)
