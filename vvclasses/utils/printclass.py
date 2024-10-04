@@ -5,7 +5,7 @@ import random
 import re
 from pygments import highlight
 from pygments.lexers import get_lexer_by_name, TextLexer
-from pygments.styles import get_style_by_name, get_all_styles
+from pygments.styles import get_style_by_name
 from pygments.formatters import TerminalTrueColorFormatter
 from pygments.util import ClassNotFound
 
