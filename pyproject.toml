@@ -17,7 +17,7 @@ build-backend = "setuptools.build_meta"
 text = "MIT"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/your-repo.git"
+Homepage = "https://github.com/VinnyVanGogh/VinnyVanGoghClasses.git"
 
 [project.scripts]
 vvclasses = "vvclasses_project.vvclasses:main"
