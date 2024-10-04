@@ -1,10 +1,10 @@
 [project]
 name = "vvclasses"
-version = "0.0.1"
+version = "0.0.2"
 description = "A one line description of your project."
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = ["colorama>=0.4.6"]
+dependencies = [ "colorama>=0.4.6", "pygments>=2.10.0",]
 [[project.authors]]
 name = "vince"
 email = "your_email@example.com"
