@@ -1,5 +1,4 @@
-from vvclasses import ColorPrinter, print_md, print_random, print_alternating, print_grouped
-import os
+from vvclasses import print_md, print_random, print_alternating, print_grouped
 
 
 def print_random_text():
