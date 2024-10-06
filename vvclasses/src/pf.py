@@ -1,8 +1,4 @@
 from vvclasses.utils import ColorPrinter
-import os
-import re
-import sys 
-import argparse
 
 def colors():
     blue = ColorPrinter.COLORS['blue']
